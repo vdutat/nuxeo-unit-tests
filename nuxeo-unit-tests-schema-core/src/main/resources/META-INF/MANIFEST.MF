@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: com.acme.tests
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-unit-tests-schema-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.acme.tests.nuxeo-unit-tests-schema-core;singleton=true
+Nuxeo-Component: OSGI-INF/rightsschema-contrib.xml
